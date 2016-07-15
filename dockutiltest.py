@@ -1,0 +1,1 @@
+/users/taylor/Desktop/dockutil --add /Applications/Google\ Chrome.app
